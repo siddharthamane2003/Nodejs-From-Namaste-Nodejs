@@ -3,7 +3,7 @@
 - Server -> It machine / reciver like computer that remotly excute js code.
 - Ex -> In compuetr as "Client" of gooble webiste we type google.com then this request goes to the "server".
 
-2. Node js code written in c++ laguauge.
+2.  Node js code written in c++ laguauge.
   - node js have js engine name as the V8 engine of goggle.
   - The V8 engine code Excute c++ programming.
   - js Engine -> Menas It will excute code.

@@ -1,0 +1,10 @@
+Request and Routing
+
+- if these is no. of use , end are used so order matter top => bottom excetion is happens.
+- BY DEFALUT THE GET IS API IS USED.  IF THIRE IS WRONG API THEN THSESE IS GET API.
+
+- POSTMAN SOFTWARE FOR THE API TESTING. INSALL THE POSTAN GO WEB SITE AND INSTALL IT.
+- hTTP METHOS
+- ADVTSED ROUTING
+- REQ.QUERY
+- REQ.PARAMS
